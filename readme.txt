@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git try1.
 Creating a new branch is really quick and simple.
+Branch management.
